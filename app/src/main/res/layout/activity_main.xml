@@ -76,5 +76,11 @@
             android:layout_height="wrap_content"
             android:onClick="tampilBluetooth"
             android:text="Bluetooth" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="tampilDrive"
+            android:text="Drive" />
     </LinearLayout>
 </ScrollView>
